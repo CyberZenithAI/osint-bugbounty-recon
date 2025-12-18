@@ -1,0 +1,17 @@
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+
+# Datos sensibles
+*.env
+config.ini
+credentials.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Entornos virtuales
+venv/
+env/
