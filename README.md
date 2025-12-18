@@ -141,8 +141,8 @@ Proyecto educativo que demuestra una metodología completa de Inteligencia de Fu
 
 **Joaquin** - Estudiante de Ciberseguridad y OSINT
 
-- 🌐 [Portafolio GitHub](https://github.com/tuusuario)
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)
+- 🌐 [Portafolio GitHub](https://github.com/CyberZenithAI)
+- 💼 [LinkedIn](https://linkedin.com/in/joaquin-ocampo-cybersecurity)
 - 📧 Correo: webdev.student123@outlook.com 
 
 ### 📄 Licencia
